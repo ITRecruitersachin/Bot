@@ -498,3 +498,11 @@ Thank you for helping make **RecruitVerse** a better resource for recruiters, so
 ---
 
 💡 Contribute to RecruitVerse
+
+<p align="center">
+  <img
+    src="./us-50-states-map-github.svg"
+    alt="US States Visited: 50 / 50"
+    width="800"
+  />
+</p>
